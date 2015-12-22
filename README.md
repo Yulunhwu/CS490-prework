@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 I was trying to implement an animated launch screen with animation while action occurs, However, I don't know a way to stop the animation, which makes it keep occuring. Therefore, I decide not to use it.
-P.S. I used my friend's Macbook to code this program, therefore, the name on the uploader is not my name.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
