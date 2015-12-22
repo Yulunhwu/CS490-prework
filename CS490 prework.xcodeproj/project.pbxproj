@@ -14,6 +14,14 @@
 		A09EF0D51C253D52001D7087 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A09EF0D41C253D52001D7087 /* Images.xcassets */; };
 		A09EF0D81C253D52001D7087 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A09EF0D61C253D52001D7087 /* LaunchScreen.xib */; };
 		A09EF0E41C253D52001D7087 /* CS490_preworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09EF0E31C253D52001D7087 /* CS490_preworkTests.swift */; };
+		A09EF16A1C2921A0001D7087 /* coin.png in Resources */ = {isa = PBXBuildFile; fileRef = A09EF1631C2921A0001D7087 /* coin.png */; };
+		A09EF16B1C2921A0001D7087 /* d1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A09EF1641C2921A0001D7087 /* d1.jpg */; };
+		A09EF16C1C2921A0001D7087 /* d2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A09EF1651C2921A0001D7087 /* d2.jpg */; };
+		A09EF16D1C2921A0001D7087 /* d3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A09EF1661C2921A0001D7087 /* d3.jpg */; };
+		A09EF16E1C2921A0001D7087 /* d4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A09EF1671C2921A0001D7087 /* d4.jpg */; };
+		A09EF16F1C2921A0001D7087 /* d5.gif in Resources */ = {isa = PBXBuildFile; fileRef = A09EF1681C2921A0001D7087 /* d5.gif */; };
+		A09EF1701C2921A0001D7087 /* dollar sign.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A09EF1691C2921A0001D7087 /* dollar sign.jpeg */; };
+		A09EF1721C2921AB001D7087 /* tips.png in Resources */ = {isa = PBXBuildFile; fileRef = A09EF1711C2921AB001D7087 /* tips.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +46,14 @@
 		A09EF0DD1C253D52001D7087 /* CS490 preworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CS490 preworkTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A09EF0E21C253D52001D7087 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A09EF0E31C253D52001D7087 /* CS490_preworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CS490_preworkTests.swift; sourceTree = "<group>"; };
+		A09EF1631C2921A0001D7087 /* coin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = coin.png; path = image/coin.png; sourceTree = SOURCE_ROOT; };
+		A09EF1641C2921A0001D7087 /* d1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = d1.jpg; path = image/d1.jpg; sourceTree = SOURCE_ROOT; };
+		A09EF1651C2921A0001D7087 /* d2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = d2.jpg; path = image/d2.jpg; sourceTree = SOURCE_ROOT; };
+		A09EF1661C2921A0001D7087 /* d3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = d3.jpg; path = image/d3.jpg; sourceTree = SOURCE_ROOT; };
+		A09EF1671C2921A0001D7087 /* d4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = d4.jpg; path = image/d4.jpg; sourceTree = SOURCE_ROOT; };
+		A09EF1681C2921A0001D7087 /* d5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = d5.gif; path = image/d5.gif; sourceTree = SOURCE_ROOT; };
+		A09EF1691C2921A0001D7087 /* dollar sign.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "dollar sign.jpeg"; path = "image/dollar sign.jpeg"; sourceTree = SOURCE_ROOT; };
+		A09EF1711C2921AB001D7087 /* tips.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tips.png; path = image/tips.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +99,14 @@
 				A09EF0CF1C253D52001D7087 /* ViewController.swift */,
 				A09EF0D11C253D52001D7087 /* Main.storyboard */,
 				A09EF0D41C253D52001D7087 /* Images.xcassets */,
+				A09EF1631C2921A0001D7087 /* coin.png */,
+				A09EF1641C2921A0001D7087 /* d1.jpg */,
+				A09EF1651C2921A0001D7087 /* d2.jpg */,
+				A09EF1661C2921A0001D7087 /* d3.jpg */,
+				A09EF1671C2921A0001D7087 /* d4.jpg */,
+				A09EF1681C2921A0001D7087 /* d5.gif */,
+				A09EF1691C2921A0001D7087 /* dollar sign.jpeg */,
+				A09EF1711C2921AB001D7087 /* tips.png */,
 				A09EF0D61C253D52001D7087 /* LaunchScreen.xib */,
 				A09EF0CC1C253D52001D7087 /* CS490_prework.xcdatamodeld */,
 				A09EF0C81C253D52001D7087 /* Supporting Files */,
@@ -195,9 +219,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A09EF16B1C2921A0001D7087 /* d1.jpg in Resources */,
+				A09EF16A1C2921A0001D7087 /* coin.png in Resources */,
 				A09EF0D31C253D52001D7087 /* Main.storyboard in Resources */,
 				A09EF0D81C253D52001D7087 /* LaunchScreen.xib in Resources */,
+				A09EF1721C2921AB001D7087 /* tips.png in Resources */,
+				A09EF16D1C2921A0001D7087 /* d3.jpg in Resources */,
+				A09EF1701C2921A0001D7087 /* dollar sign.jpeg in Resources */,
+				A09EF16E1C2921A0001D7087 /* d4.jpg in Resources */,
 				A09EF0D51C253D52001D7087 /* Images.xcassets in Resources */,
+				A09EF16C1C2921A0001D7087 /* d2.jpg in Resources */,
+				A09EF16F1C2921A0001D7087 /* d5.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -343,6 +375,7 @@
 				INFOPLIST_FILE = "CS490 prework/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -353,6 +386,7 @@
 				INFOPLIST_FILE = "CS490 prework/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -409,6 +443,7 @@
 				A09EF0E91C253D52001D7087 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A09EF0EA1C253D52001D7087 /* Build configuration list for PBXNativeTarget "CS490 preworkTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +452,7 @@
 				A09EF0EC1C253D52001D7087 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
