@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tiplabel: UILabel!
     @IBOutlet weak var totallabel: UILabel!
     
-    @IBOutlet weak var imageView: UIImageView!//for animation
+    @IBOutlet weak var imageView: UIImageView!
     
     
     
